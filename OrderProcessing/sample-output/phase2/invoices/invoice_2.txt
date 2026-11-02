@@ -1,0 +1,12 @@
+INVOICE - Order #2
+Customer: #2
+Date: 2026-11-01 21:52:50
+
+Product #2 x 1 @ 800.00
+
+SubTotal: 800.00
+Discount: 40.00
+Shipping: 7.30
+Total:    767.30
+
+Render checksum: 59628481636
