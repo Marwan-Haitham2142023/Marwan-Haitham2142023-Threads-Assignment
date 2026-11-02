@@ -1,0 +1,14 @@
+D:\Simulation Resources\OrderProcessing\OrderProcessing\bin\Debug\net10.0\OrderProcessing.exe
+D:\Simulation Resources\OrderProcessing\OrderProcessing\bin\Debug\net10.0\OrderProcessing.deps.json
+D:\Simulation Resources\OrderProcessing\OrderProcessing\bin\Debug\net10.0\OrderProcessing.runtimeconfig.json
+D:\Simulation Resources\OrderProcessing\OrderProcessing\bin\Debug\net10.0\OrderProcessing.dll
+D:\Simulation Resources\OrderProcessing\OrderProcessing\bin\Debug\net10.0\OrderProcessing.pdb
+D:\Simulation Resources\OrderProcessing\OrderProcessing\obj\Debug\net10.0\OrderProcessing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Simulation Resources\OrderProcessing\OrderProcessing\obj\Debug\net10.0\OrderProcessing.AssemblyInfoInputs.cache
+D:\Simulation Resources\OrderProcessing\OrderProcessing\obj\Debug\net10.0\OrderProcessing.AssemblyInfo.cs
+D:\Simulation Resources\OrderProcessing\OrderProcessing\obj\Debug\net10.0\OrderProcessing.csproj.CoreCompileInputs.cache
+D:\Simulation Resources\OrderProcessing\OrderProcessing\obj\Debug\net10.0\OrderProcessing.dll
+D:\Simulation Resources\OrderProcessing\OrderProcessing\obj\Debug\net10.0\refint\OrderProcessing.dll
+D:\Simulation Resources\OrderProcessing\OrderProcessing\obj\Debug\net10.0\OrderProcessing.pdb
+D:\Simulation Resources\OrderProcessing\OrderProcessing\obj\Debug\net10.0\OrderProcessing.genruntimeconfig.cache
+D:\Simulation Resources\OrderProcessing\OrderProcessing\obj\Debug\net10.0\ref\OrderProcessing.dll
